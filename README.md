@@ -1,5 +1,7 @@
 # Benchmark Traditional CSS VS CSS-IN-JS
 
+![](./images/)
+
 |  | Traditional CSS | CSS-IN-JS |
 |--| --------------- | --------- |
 |Components Tree| ![](./images/DOMTree-traditional-css.png)| ![](./images/DOMTree-css-in-js.png)
